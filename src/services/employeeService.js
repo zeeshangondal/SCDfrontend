@@ -6,7 +6,7 @@ const KEYS = {
 }
 //const URL="http://localhost:3001/api/v1/employees/"
 
-const URL="https://scd-backend.herokuapp.com/";
+const URL="https://scd-backend.herokuapp.com/api/v1/employees/";
 
 export const getEmployeeTypes = () => ([
     { id: 'Doctor', title: 'Doctor' },
