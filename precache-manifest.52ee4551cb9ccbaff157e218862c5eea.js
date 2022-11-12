@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65f035d8e3e2700fd79835ccadbdbd67",
+    "revision": "c82d2039013fdfc3e129ae4b1fe0f9bd",
     "url": "/SCDfrontend/index.html"
   },
   {
-    "revision": "7df846f4236d2b41209f",
+    "revision": "88b4dfc44d74d732dc50",
     "url": "/SCDfrontend/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SCDfrontend/static/js/3.5d60a05b.chunk.js"
   },
   {
-    "revision": "7df846f4236d2b41209f",
-    "url": "/SCDfrontend/static/js/main.5bedd471.chunk.js"
+    "revision": "88b4dfc44d74d732dc50",
+    "url": "/SCDfrontend/static/js/main.2b8ea62c.chunk.js"
   },
   {
     "revision": "0ac4309163a419ac83d7",
