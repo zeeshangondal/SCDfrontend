@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/temp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/temp/static/js/main.0e7325a6.chunk.js",
-    "main.js.map": "/temp/static/js/main.0e7325a6.chunk.js.map",
-    "runtime-main.js": "/temp/static/js/runtime-main.508af64a.js",
-    "runtime-main.js.map": "/temp/static/js/runtime-main.508af64a.js.map",
-    "static/js/2.d5dddd36.chunk.js": "/temp/static/js/2.d5dddd36.chunk.js",
-    "static/js/2.d5dddd36.chunk.js.map": "/temp/static/js/2.d5dddd36.chunk.js.map",
-    "static/js/3.5d60a05b.chunk.js": "/temp/static/js/3.5d60a05b.chunk.js",
-    "static/js/3.5d60a05b.chunk.js.map": "/temp/static/js/3.5d60a05b.chunk.js.map",
-    "index.html": "/temp/index.html",
-    "precache-manifest.84040f95b6ab49af671d4e1a4918ede0.js": "/temp/precache-manifest.84040f95b6ab49af671d4e1a4918ede0.js",
-    "service-worker.js": "/temp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/temp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d5dddd36.chunk.js.LICENSE.txt": "/temp/static/js/2.d5dddd36.chunk.js.LICENSE.txt"
+    "main.css": "/SCDfrontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SCDfrontend/static/js/main.0e7325a6.chunk.js",
+    "main.js.map": "/SCDfrontend/static/js/main.0e7325a6.chunk.js.map",
+    "runtime-main.js": "/SCDfrontend/static/js/runtime-main.c3b48f05.js",
+    "runtime-main.js.map": "/SCDfrontend/static/js/runtime-main.c3b48f05.js.map",
+    "static/js/2.d5dddd36.chunk.js": "/SCDfrontend/static/js/2.d5dddd36.chunk.js",
+    "static/js/2.d5dddd36.chunk.js.map": "/SCDfrontend/static/js/2.d5dddd36.chunk.js.map",
+    "static/js/3.5d60a05b.chunk.js": "/SCDfrontend/static/js/3.5d60a05b.chunk.js",
+    "static/js/3.5d60a05b.chunk.js.map": "/SCDfrontend/static/js/3.5d60a05b.chunk.js.map",
+    "index.html": "/SCDfrontend/index.html",
+    "precache-manifest.57c2b93d8989bdb85d4d3cd16813cd98.js": "/SCDfrontend/precache-manifest.57c2b93d8989bdb85d4d3cd16813cd98.js",
+    "service-worker.js": "/SCDfrontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SCDfrontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d5dddd36.chunk.js.LICENSE.txt": "/SCDfrontend/static/js/2.d5dddd36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.508af64a.js",
+    "static/js/runtime-main.c3b48f05.js",
     "static/js/2.d5dddd36.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.0e7325a6.chunk.js"
